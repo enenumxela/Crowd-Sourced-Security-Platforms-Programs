@@ -1,0 +1,877 @@
+[
+	{
+		"id": "04aab402-3eb7-41b8-b146-b9344efc89ce",
+		"handle": "captureourflag",
+		"name": "Capture Our Flag",
+		"following": false,
+		"confidentialityLevel": {
+			"id": 4,
+			"value": "Public"
+		},
+		"status": {
+			"id": 3,
+			"value": "Open"
+		},
+		"type": {
+			"id": 1,
+			"value": "Bug Bounty"
+		},
+		"domains": {
+			"id": "9ff6eceb-1e9f-5135-bcc0-8dba48cc37ad",
+			"createdAt": 1697104263,
+			"content": [
+				{
+					"id": "d1db345c-e083-40b0-8e91-a1760d52c4e3",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "app-pwn.intigriti.rocks",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				}
+			]
+		},
+		"rulesOfEngagement": {
+			"id": "ba4333d2-2be6-52ad-bd07-25833abe7fc7",
+			"createdAt": 1697113206,
+			"content": {
+				"description": "#### By participating in this program, you agree to:\n\n* Respect the [Community Code of Conduct](https://go.intigriti.com/coc)\n* Respect the Intigriti [Terms and Conditions](https://go.intigriti.com/tac)\n* Respect the scope of the program\n* Not discuss or disclose vulnerability information without prior written consent (including PoC's on YouTube and Vimeo)\n\n**Validation times**\n\nWe will validate all submissions within the below timelines, once your submission has been verified by Intigriti.\nSubmissions validated outside of this may be awarded a **€25 bonus**.\n\n| Vulnerability Severity | Time to validate |\n| -------- | -------- |\n| Exceptional | 2 Working days |\n| Critical | 2 Working days |\n\nThis remains at the discretion of intigriti to award.\n\n**Check our fix**\nWe offer up to **€50 bonus** to verify a resolved issue for us (when requested).\nThis remains at the discretion of intigriti to award.",
+				"testingRequirements": {
+					"intigritiMe": true,
+					"automatedTooling": null,
+					"userAgent": null,
+					"requestHeader": null
+				},
+				"safeHarbour": true
+			},
+			"attachments": []
+		},
+		"webLinks": {
+			"detail": "https://app-dev.intigriti.rocks/auth/dashboard?redirect=/programs/intigriti/captureourflag/detail"
+		}
+	},
+	{
+		"id": "10eb5e95-08e2-4f4e-8d22-f8c600a7acff",
+		"handle": "intel",
+		"name": "Intel®",
+		"following": false,
+		"confidentialityLevel": {
+			"id": 4,
+			"value": "Public"
+		},
+		"status": {
+			"id": 3,
+			"value": "Open"
+		},
+		"type": {
+			"id": 1,
+			"value": "Bug Bounty"
+		},
+		"domains": {
+			"id": "b83322da-d20a-4045-b994-ed655851ffaf",
+			"createdAt": 1720626387,
+			"content": [
+				{
+					"id": "dd6d5718-737b-44f3-a833-fa74d0462f1f",
+					"type": {
+						"id": 6,
+						"value": "Other"
+					},
+					"endpoint": "Hardware",
+					"tier": {
+						"id": 4,
+						"value": "Tier 1"
+					},
+					"description": null
+				},
+				{
+					"id": "92208b24-3ef0-43dc-9314-f3af05929360",
+					"type": {
+						"id": 6,
+						"value": "Other"
+					},
+					"endpoint": "Firmware",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "9ddd704e-ea3a-463d-878d-6b80342f685a",
+					"type": {
+						"id": 6,
+						"value": "Other"
+					},
+					"endpoint": "Software",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": null
+				},
+				{
+					"id": "9898bc2c-6e8f-4d11-af00-5072e77c15f8",
+					"type": {
+						"id": 7,
+						"value": "Wildcard"
+					},
+					"endpoint": "*.intel.com",
+					"tier": {
+						"id": 1,
+						"value": "No Bounty"
+					},
+					"description": "**Intel's Web Infrastructure, i.e.`*.intel.com`**\nIntel’s web infrastructure, i.e., website domains owned and/or operated by Intel, fall **Out of Scope**. These reports are not eligible for rewards of any kind. \nPlease send security vulnerability reports against intel.com and/or related web presence to external.security.research@intel.com\n\nPlease select this domain when submitting  **credentials** of any kind."
+				},
+				{
+					"id": "f246e6df-7e3b-44d1-8d51-845ccbbf8916",
+					"type": {
+						"id": 6,
+						"value": "Other"
+					},
+					"endpoint": "Services",
+					"tier": {
+						"id": 1,
+						"value": "No Bounty"
+					},
+					"description": "Intel Cloud Service offerings are a wide range of services delivered on demand to companies and customers over the internet. These services are designed to provide easy, affordable access to applications, resources, and software products."
+				}
+			]
+		},
+		"rulesOfEngagement": {
+			"id": "9154d155-2f1f-4b24-802d-f75bddb2f130",
+			"createdAt": 1730993367,
+			"content": {
+				"description": "# By participating in this program, you agree:\n1.\tTo follow the Intigriti Community Code of Conduct. See “[Intigriti Community Code of Conduct](https://kb.intigriti.com/en/articles/5247238-community-code-of-conduct).”\n2.\tTo follow the Intel Security Vulnerability Rearcher Community Code of Conduct. See [Security Vulnerability Rearcher Community Code of Conduct](https://www.intel.com/content/www/us/en/security-center/Code_of_Conduct.html)\n3.\tTo follow the Intigriti Terms and Conditions. See “[Intigriti Terms and Conditions](https://go.intigriti.com/tac).”\n4.\tTo follow the Rules of Engagement and scope of the program. See “[Intel Bug Bounty Program Policy](https://www.intel.com/content/www/us/en/security-center/bug-bounty-program.html).”\n5.\tYou will not discuss or disclose vulnerability information with anyone not authorized by Intel without prior written consent from Intel (including PoC's on YouTube, Vimeo, etc). See [Coordinated Vulnerability Disclosure](https://www.intel.com/content/www/us/en/security/security-practices/coordinated-disclosure.html). \n6.\tYou meet the eligibility criteria for this program. See “**Security Researcher and Reporter Eligibility Criteria**” section.\n7.\tYour submission meets the eligibility requirements for this program. See “**Report Eligibility Criteria**” and “**Product Eligibility Criteria**” section.\n8.\tYou will not attempt to access anyone else's data or personal information, including by exploiting a vulnerability. See “**Sensitive and Personal Information**” section.\n9.\tTo have freely given Intel a perpetual license for all information and communications provided through the reporting process. See “**Intellectual Property**” section.\n\n\n# By participating in this program, Intel agrees:\n1.\tTo provide reasonable safe harbor to researchers following all **Rules of Engagement**. See “**Safe Harbor**” section.\n2.\tTo provide named acknowledgement on Intel disclosure(s) that include information provided during the reporting process. See “**Intellectual Property**” section.\n3.\tTo award monetary rewards for valuable security research. See “**Bounties**” section.\n4.\tTo use the current CVSS standard for severity scoring. See “**Current Standards Used**” section.\n5.\tTo follow CVE Numbering Authority Rules. See “**Current Standards Used**” section.\n\n# Violating these rules may result in, but is not limited to:\n1.\tRevocation of Report eligibility,\n2.\tDenial of any or all potential rewards,\n3.\tTemporary or permanent revocation of Security Researcher and Reporter eligibility, and\n4.\tRemoval from current engagements and/or prohibition from future engagement eligibility.\n\n\n# Researcher/Reporter Agreements\n## Product Eligibility Criteria\nIntel encourages the reporting of all potential vulnerabilities.  Intel® branded products and technologies which are maintained and distributed by Intel are eligible for rewards from this program. This includes but may not be limited to the following categories.\n* Processors\n* Server Products\n*\tWireless\n* Ethernet products\n*\tIntel® FPGAs (Field Programmable Gate Array)\n*\tMemory and Storage\n*\tChipsets\n*\tGraphics\n\n**Hardware** – Product specifications may be found on ARK. Processor support timeline may be found [on this help page](https://www.intel.com/content/www/us/en/support/articles/000022396/processors.html). \n**Firmware** – Firmware may be found on the [Download Center](https://www.intel.com/content/www/us/en/download-center/home.html).\n**Software** – Software may be found in a variety of places on the Intel website including [Product Support Tools \u0026 Utilities](https://www.intel.com/content/www/us/en/support/topics/utility-tools.html), [Development Tools](https://www.intel.com/content/www/us/en/developer/tools/overview.html), [Developer Catalog](https://www.intel.com/content/www/us/en/developer/tools/software-catalog/overview.html?s=Newest), and [Design-iN Tools Store](https://designintools.intel.com/).\n*Note: All testing resources must be obtained by participating security researchers.*\n*Note: The [Discontinued Products](https://www.intel.com/content/www/us/en/support/discontinued-products.html) support page can be a useful list for identifying products that are not eligible for this program.*\n\n## Report Eligibility Criteria\nIntel encourages you to submit any report for consideration. For the report to be eligible for bounty award consideration, your report must meet the following requirements:\n1. The report and any accompanying material is first sent to Intel.\n2. The Intel® product(s) in your report correspond to an item in the “**Product Eligibility Criteria**” section.\n3. The vulnerability you identify must be original, not previously reported to Intel, and not publicly disclosed.\n4. The report must show that the potential vulnerability has been demonstrated against a currently supported (often the most recent) and publicly available version of the affected product or technology.\n5. The report must contain clear documentation that provides information required for the report to be processed.\n    1. Minimum:\n        1. Name and specific version of the Intel® product(s) the potential issue may impact\n        2.\tHow exploiting it may negatively impact confidentiality, availability, and/or integrity of the affected product(s)\n        3.\tInstructions that, if followed by the Intel product engineering team, clearly demonstrate successful exploitation of the reported issue on an impacted Intel® platform\n        4.\tIdentify the reported Common Weakness Enumeration (CWE)\n    3. Recommended Content:\n        1. Overview\n            1. An overview/summary of the reported issue\n            2. Statement of potential impact\n            3. Name and specific version of the Intel® product(s) the potential issue may impact\n        2. Details\n            1. Detailed explanation of the reported issue\n            2. How it can be exploited\n            3. How exploiting it may negatively impact confidentiality, availability, and/or integrity of the affected product(s)\n            4. Likelihood of a successful exploit\n        3. Proof of Concept (POC)\n            1. Instructions that, if followed by the Intel product engineering team, clearly demonstrate successful exploitation of the reported issue on an impacted Intel® platform\n            2. Information on how any POC code was developed and compiled\n            3. Code required to execute the POC\n            4. Description of the development environment and operating system revisions\n            5. Compiler name, version, options used to compile \n        4. Scoring\n            1. Proposed CVSS score\n            2. Proposed CVSS vector\n            3. Justification for the selections (using the stated specification).  \n            4. Identify the reported Common Weakness Enumeration (CWE)\n6. (PSIRT Direct Contact Only) The report was submitted to the Bug Bounty Program within the required period for eligibility: 60 days from notice to resubmit or the date of disclosure, whichever is shorter.\n\nThe more details provided in the initial report, the easier it will be for Intel to evaluate your report. Omitting Proof-of-Concept or Proof-of-Exploit(ability) from a report may result in the report being ineligible for a bounty or a delay in triage of the report.\n\n## Security Researcher and Reporter Eligibility Criteria\nAll criteria must be met to participate in the Bug Bounty Program. \n1. You are reporting in your individual capacity or, if you are employed by a company or other entity and are reporting on behalf of your employer, you have your employer’s written approval to submit a report to the Intel® Bug Bounty Program.\n2. You are at least 18 years of age, and, if considered a minor in your place of residence, you have your parent’s or legal guardian’s permission prior to reporting.\n3. You are not a resident of a U.S. (United States) Government embargoed country.\n4. You are not on a U.S. Government list of sanctioned individuals.\n5. You are not currently, nor have you been an employee of Intel Corporation, or an Intel subsidiary, within 6 months prior to submitting a report.\n6. You are not currently, nor have you been under contract to Intel Corporation, or an Intel subsidiary, within 6 months prior to submitting a report.\n7. You are neither a family nor household member of any individual who currently or within the past 6 months meets or met the criteria listed in the two bullet points directly above.\n8. You agree to participate in testing mitigation effectiveness and coordinating disclosure/release/publication of your finding with Intel.\n9. You did not and will not access any personal information that is not your own, including by exploiting the vulnerability. \n10. You did not and will not violate any applicable law or regulation, including laws prohibiting unauthorized access to information. To clarify, Intel does not view testing that is done in compliance with the terms and conditions of this Bug Bounty Program as unauthorized. \n11. There may be additional restrictions on your eligibility to participate in the bug bounty depending upon your local laws.\n\n\nIf at any point while researching a vulnerability, you are unsure whether you should continue, immediately send a message to Intel PSIRT (secure@intel.com).\n\n## Sensitive and Personal Information\nNever attempt to access anyone else's data or personal information, including by exploiting a vulnerability. Such activity is unauthorized. If during your research, testing, or communication with Intel you interacted with or obtained access to data or personal information of others, you must:\n* Stop your testing immediately and cease any activity that involves the data or personal information or the vulnerability.\n* Do not save, copy, store, transfer, disclose, or otherwise retain the data or personal information.\n* Alert Intel immediately and support our investigation and mitigation efforts.\n\nFailure to comply with any of the above will immediately disqualify any report from bounty award eligibility.\n\n\n# Intel Agreements\n## Bounties\nBounty award arrangements under this program, including the timing, bounty amount and form of payments, are at Intel’s sole discretion and will be made case-by-case following the principle of **One CVE = One Bounty**.\n\nIntel’s bug bounty awards **range from $500 up to $100,000**. We consider a range of factors when determining the award amount for eligible reports. Those factors include, but are not limited to, the quality of the report, impact of the potential vulnerability, type of vulnerability, CVSS severity score, whether a POC was provided and the quality of the POC (see “**Report Eligibility Criteria**” section). The table below is a general guide to the potential award amounts. However, the awards may vary based on the factors mentioned.\n\n\n| Vulnerability Severity | CVSS Score Range | Intel Software| Intel Firmware | Intel Hardware |\n| -------- | -------- | -------- | -------- | -------- |\n| Critical | 9.0 - 10.0 | Up to $10,000 | Up to $30,000 | Up to $100,000 |\n| High | 7.0 - 8.9 | Up to $5,000 | Up to $15,000 | Up to $30,000 |\n| Medium | 4.0 - 6.9 | Up to $1,500 | Up to $3,000 | Up to $5,000 |\n| Low | 0.1 - 3.9 | Up to $500 | Up to $1,000 | Up to $2,000 |\n\nIntel, at its sole discretion, may reject any submission that we determine does not meet the “**Security Researcher and Reporter Eligibility Criteria**,” “**Product Eligibility Criteria**,“ or “**Report Eligibility Criteria**” sections or that are deemed as ineligible as set forth below.\nIntel makes no representations regarding the tax consequences of the payments Intel makes under this program. Participants in this program are responsible for any tax liability associated with bounty award payments.\n\n## Current Standards in Use\n* Common Vulnerability Scoring System (CVSS): [Version 3.1](https://www.first.org/cvss/calculator/3.1)\n* CVE Numbering Authority Rules: [Version 3.0](https://cve.mitre.org/cve/cna/CNA_Rules_v3.0.pdf)\n\n## Safe Harbor\nIf you follow the program terms, we will not initiate a lawsuit or law enforcement investigation against you in response to your report. Please understand that this waiver does not apply to your security research that involves the networks, systems, information, applications, devices, products, or services of another party (which is not Intel). We cannot and do not authorize security research in the name of other entities.\n\n\n# Shared Agreements\n## Intellectual Property\nBy submitting your content to Intel (your “Submission”), you agree that Intel may take all steps needed to validate, mitigate, and disclose the vulnerability, and that you grant Intel all rights to your Submission needed to do so.\n\nIntel will, to the best of its ability, offer named acknowledgement on any Intel publications which include information provided through the reporting process. For Submissions with multiple collaborators, please ensure all users are included on the report at the time of submission to ensure acknowledgement.\n\nAcknowledgements will utilize the bug bounty platform username only, unless otherwise requested at the time of submission, or anonymity if requested before publication occurs. Limits may apply. Intel will not edit the acknowledged name unless it can be proven to be inaccurate.",
+				"testingRequirements": {
+					"intigritiMe": false,
+					"automatedTooling": null,
+					"userAgent": "",
+					"requestHeader": ""
+				},
+				"safeHarbour": false
+			},
+			"attachments": []
+		},
+		"webLinks": {
+			"detail": "https://app-dev.intigriti.rocks/auth/dashboard?redirect=/programs/intel/intel/detail"
+		}
+	},
+	{
+		"id": "1dcf052a-9cd7-4278-99d1-3c037efbf781",
+		"handle": "donorboxvdp",
+		"name": "Donorbox VDP",
+		"following": false,
+		"confidentialityLevel": {
+			"id": 4,
+			"value": "Public"
+		},
+		"status": {
+			"id": 3,
+			"value": "Open"
+		},
+		"type": {
+			"id": 1,
+			"value": "Bug Bounty"
+		},
+		"domains": {
+			"id": "90577de7-ade5-4ed0-aafc-c64e2bc2d5db",
+			"createdAt": 1727828235,
+			"content": [
+				{
+					"id": "6de05e4f-4704-4617-9ce1-fd89a31002e0",
+					"type": {
+						"id": 3,
+						"value": "iOS"
+					},
+					"endpoint": "https://apps.apple.com/us/app/donorbox-live/id1668808097",
+					"tier": {
+						"id": 4,
+						"value": "Tier 1"
+					},
+					"description": "Donorbox Live is a mobile app that allows orgs to connect Stripe-sanctioned card readers and accept in person payments. See the infrastructure section below for details."
+				},
+				{
+					"id": "0037052a-9bb7-4194-8c34-7080643d6d94",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "https://donorbox.org/admin",
+					"tier": {
+						"id": 4,
+						"value": "Tier 1"
+					},
+					"description": "This is the customer support admin console used by Donorbox employees. A donorbox.org account (signed in via Google SSO and with MFA enabled) is required to access this. Additionally, you must be invited to the Rebel Idealist organization in order to gain initial admin access. Please report any unauthorized access to this page."
+				},
+				{
+					"id": "99763bf7-926d-4fdd-9f7f-91d8d708b2b2",
+					"type": {
+						"id": 2,
+						"value": "Android"
+					},
+					"endpoint": "https://play.google.com/store/apps/details?id=org.donorbox.cardreader\u0026hl=en\u0026gl=US",
+					"tier": {
+						"id": 4,
+						"value": "Tier 1"
+					},
+					"description": "Donorbox Live is a mobile app that allows orgs to connect Stripe-sanctioned card readers and accept in person payments. See the infrastructure section below for details."
+				},
+				{
+					"id": "ed392283-7f78-4bcb-81c8-f41a4833b94b",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "https://donorbox.org",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "This is the website which includes any page you can navigate to from www.donorbox.org, e.g., www.donorbox.org/pricing."
+				},
+				{
+					"id": "34e24568-79c3-4d5b-8a2e-f3101cd693d4",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "https://donorbox.org/embed/potato",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "This is an example of an embed form. Embed forms can be added to a separate website used by the organization. Changing the organization who receives the donation (aka hijacking) or providing fraudulent donations (like a double refund) should not be possible."
+				},
+				{
+					"id": "7a1e6def-7981-41dd-817e-97a6812451c5",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "https://donorbox.org/org_admin",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "This is the admin console for organizations. When customers create an org account, they will be directed here to make changes such as creating a campaign, connecting Stripe or PayPal, and changing the donation form. Donor information and donations can be viewed."
+				},
+				{
+					"id": "b2546c1f-ad79-4659-9e18-4a85fa4e3c12",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "https://donorbox.org/potato",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "This is an example of a hosted page, which lives under the host domain. Hosted pages are provided for organizations to use as their main website if they don't already have one. When a new donation form is created, a hosted page gets created by default."
+				}
+			]
+		},
+		"rulesOfEngagement": {
+			"id": "13a550dd-bdb7-4972-970f-78a12e436d42",
+			"createdAt": 1726166688,
+			"content": {
+				"description": "#### By participating in this program, you agree to:\n\n* Respect the [Community Code of Conduct](https://go.intigriti.com/coc)\n* Respect the Intigriti [Terms and Conditions](https://go.intigriti.com/tac)\n* Respect the scope of the program\n* Not discuss or disclose vulnerability information without prior written consent (including PoC's on YouTube and Vimeo)\n\n**Validation times**\n\nWe will validate all submissions within the below timelines, once your submission has been verified by Intigriti.\nSubmissions validated outside of this may be awarded a **$25 bonus**.\n\n| Vulnerability Severity | Time to validate |\n| -------- | -------- |\n| Exceptional | 5 Working days |\n| Critical | 5 Working days |\n| High     | 10 Working days |\n| Medium   | 15 Working days |\n| Low      | 15 Working days |\n\nThis remains at the discretion of Donorbox to award.\n\n**Check our fix**\nWe offer up to **$50 bonus** to verify a resolved issue for us (when requested).\nThis remains at the discretion of Donorbox to award.",
+				"testingRequirements": {
+					"intigritiMe": false,
+					"automatedTooling": null,
+					"userAgent": null,
+					"requestHeader": null
+				},
+				"safeHarbour": true
+			},
+			"attachments": []
+		},
+		"webLinks": {
+			"detail": "https://app-dev.intigriti.rocks/auth/dashboard?redirect=/programs/donorbox/donorboxvdp/detail"
+		}
+	},
+	{
+		"id": "21d92048-d4d8-4781-8f37-3209a1b60fe1",
+		"handle": "azenaresponsibledisclosure",
+		"name": "Azena",
+		"following": false,
+		"confidentialityLevel": {
+			"id": 4,
+			"value": "Public"
+		},
+		"status": {
+			"id": 3,
+			"value": "Open"
+		},
+		"type": {
+			"id": 1,
+			"value": "Bug Bounty"
+		},
+		"domains": {
+			"id": "ef31ee9a-91ed-5c10-b8e7-c6933280d44c",
+			"createdAt": 1671198462,
+			"content": [
+				{
+					"id": "cd54a0fc-3e74-47cb-9504-78c3be92ec4f",
+					"type": {
+						"id": 7,
+						"value": "Wildcard"
+					},
+					"endpoint": "*.azena.com",
+					"tier": {
+						"id": 1,
+						"value": "No Bounty"
+					},
+					"description": "All assets including azena.com and subdomains.\nNote that connect.azena.com and any subdomain of connect.azena.com is a remote connection service to devices owned and controlled by third parties. Therefore, these targets are out of scope and not covered by this program."
+				}
+			]
+		},
+		"rulesOfEngagement": {
+			"id": "5df99b81-b929-5fff-9e49-bd0c87e11f11",
+			"createdAt": 1657274271,
+			"content": {
+				"description": "\n#### By participating in this program, you agree to:\n\n* Respect the [Community Code of Conduct](https://go.intigriti.com/coc)\n* Respect the Intigriti [Terms and Conditions](https://go.intigriti.com/tac)\n* Respect the scope of the program\n* Not discuss or disclose vulnerability information without prior written consent (including PoC's on YouTube and Vimeo)\n\n#### We kindly ask you to not:\n\n* Use automated scanning tools\n* Change any accounts passwords\n* Access or download confidential information\n* Perform any test that will impact our costumers\n* Share or publicize an unresolved vulnerability with/to third parties.\n\n\n#### Azena Commitment\nAzena agrees not to pursue claims against reporting parties related to disclosures submitted to us providing the following:\n\n* The reporting party does not cause harm to Azena, our customers, or others.\n* The reporting party does not compromise the privacy or safety of our customers or the operation of our services.\n* The reporting party does not violate any criminal law.\n* The reporting party publicly discloses vulnerability details only after Azena confirms completed remediation of the vulnerability\n",
+				"testingRequirements": {
+					"intigritiMe": true,
+					"automatedTooling": null,
+					"userAgent": null,
+					"requestHeader": "X-Intigriti-Username: {Username}"
+				},
+				"safeHarbour": true
+			},
+			"attachments": []
+		},
+		"webLinks": {
+			"detail": "https://app-dev.intigriti.rocks/auth/dashboard?redirect=/programs/azena/azenaresponsibledisclosure/detail"
+		}
+	},
+	{
+		"id": "2e52d6d3-da18-467f-836e-7a22b82bef5f",
+		"handle": "tomorrowland",
+		"name": "Tomorrowland",
+		"following": false,
+		"confidentialityLevel": {
+			"id": 4,
+			"value": "Public"
+		},
+		"status": {
+			"id": 3,
+			"value": "Open"
+		},
+		"type": {
+			"id": 1,
+			"value": "Bug Bounty"
+		},
+		"domains": {
+			"id": "b3705868-2e10-4125-b514-6ba629275319",
+			"createdAt": 1714671302,
+			"content": [
+				{
+					"id": "7cc6754d-c09d-4ea9-bf4a-7c2f34357866",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "artists.tomorrowland.com/production-website/33117",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "c15e0a3f-9182-4a44-940f-3fb15144b3a1",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "cognito-idp.eu-west-1.amazonaws.com",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "b26fb1f6-791a-4025-a038-61eaad428b7e",
+					"type": {
+						"id": 2,
+						"value": "Android"
+					},
+					"endpoint": "com.tomorrowland.oneworldradio",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "d2ccab20-975e-415d-889e-55acf4257e17",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "globaljourney.tomorrowland.com",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "87eb7ff6-9e2c-4c6d-8110-1a3ffeba2cc7",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "my.tomorrowland.com",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "232f33be-3ea6-465b-8a49-bafc24a1c186",
+					"type": {
+						"id": 3,
+						"value": "iOS"
+					},
+					"endpoint": "one-world-radio-tomorrowland/id1485778856",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "22a7d0c4-4f57-495a-95d9-42d90c1d2143",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "oneworldradio.tomorrowland.com",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "67c34349-7ef1-439d-a7f9-eca6a2c248dc",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "df5b2091-cf3b-4c10-858d-c82914a19589",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "winterpackages.tomorrowland.com",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "Out of Scope: bypassing payment process"
+				},
+				{
+					"id": "98b140e0-e53a-42ff-8150-ae0fcca235bb",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "www.tomorrowland.com",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "30ee7f3c-f6b0-4fdd-bff9-ac734880efd5",
+					"type": {
+						"id": 7,
+						"value": "Wildcard"
+					},
+					"endpoint": "*.tomorrowland.com",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": null
+				},
+				{
+					"id": "e8900967-c10d-470e-8401-3ff75d8736cd",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "components.stag.tomorrowland.com",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Vulnerabilities found on either components.stag.tomorrowland.com or components.tomorrowland.com will be considered duplicate."
+				},
+				{
+					"id": "7b23c57f-9ee6-4fcc-ab94-ed5831046703",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "components.tomorrowland.com",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Vulnerabilities found on either components.stag.tomorrowland.com or components.tomorrowland.com will be considered duplicate."
+				}
+			]
+		},
+		"rulesOfEngagement": {
+			"id": "0f1c0915-b963-5e2b-b86c-b1a2dc3a9319",
+			"createdAt": 1637675410,
+			"content": {
+				"description": "#### Guidelines\n* Remember: quality over quantity!\n* Provide detailed but to-the point reproduction steps\n* Include a clear attack scenario, a step by step guide in the PoC is highly appreciated\n* Please do NOT discuss bugs before they are fixed\n\nPlease use the @intigriti.me email for your tests so we can keep our databases clean.",
+				"testingRequirements": {
+					"intigritiMe": true,
+					"automatedTooling": null,
+					"userAgent": null,
+					"requestHeader": null
+				},
+				"safeHarbour": true
+			},
+			"attachments": []
+		},
+		"webLinks": {
+			"detail": "https://app-dev.intigriti.rocks/auth/dashboard?redirect=/programs/tomorrowland/tomorrowland/detail"
+		}
+	},
+	{
+		"id": "36b43674-b66e-44a8-a8ea-b30a115cb2a5",
+		"handle": "coolblue",
+		"name": "Coolblue",
+		"following": false,
+		"confidentialityLevel": {
+			"id": 3,
+			"value": "Registered"
+		},
+		"status": {
+			"id": 3,
+			"value": "Open"
+		},
+		"type": {
+			"id": 1,
+			"value": "Bug Bounty"
+		},
+		"domains": {
+			"id": "86b2bb2d-110d-4161-82a4-75ae02be1894",
+			"createdAt": 1728551467,
+			"content": [
+				{
+					"id": "aa3fc693-66c1-4e15-96e4-5363f619a338",
+					"type": {
+						"id": 3,
+						"value": "iOS"
+					},
+					"endpoint": "1174047097",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "Our iOS application."
+				},
+				{
+					"id": "61b46302-a4c9-448c-8b14-16e834a17aac",
+					"type": {
+						"id": 2,
+						"value": "Android"
+					},
+					"endpoint": "eu.coolblue.shop",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "Our Android application."
+				},
+				{
+					"id": "808c72c5-119e-41fe-a9a7-f44921bcaf96",
+					"type": {
+						"id": 6,
+						"value": "Other"
+					},
+					"endpoint": "mobile-api.coolblue-production.eu",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "The API used by our mobile applications. "
+				},
+				{
+					"id": "d1f17fbe-265e-4f41-8ce8-4a6a6f65026f",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "www.coolblue.be",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "The scope for the program is our whole webshop platform. This includes our customer login, order and payment flows, product, search and filterpages, etc. These are all part of the www-domain. "
+				},
+				{
+					"id": "56f14710-e82d-4873-bac0-6c1af8aa2cbe",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "www.coolblue.de",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "\nThe scope for the program is our whole webshop platform. This includes our customer login, order and payment flows, product, search and filterpages, etc. These are all part of the www-domain."
+				},
+				{
+					"id": "0850a5a0-3bcb-4001-a7fd-f9b43570cff6",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "www.coolblue.nl",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": "\nThe scope for the program is our whole webshop platform. This includes our customer login, order and payment flows, product, search and filterpages, etc. These are all part of the www-domain."
+				},
+				{
+					"id": "230cf580-f3b1-484d-b868-37d8bc17e2cc",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "arbeitenbeicoolblue.de",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Site designed to handle our job offers and vacancies.\nNot developed by Coolblue, but by an external party, so validation and acceptance by the Coolblue-team might take a bit longer."
+				},
+				{
+					"id": "7b4a4ed4-168b-42f4-94b9-a69c146b481d",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "careersatcoolblue.com",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Site designed to handle our job offers and vacancies.\nNot developed by Coolblue, but by an external party, so validation and acceptance by the Coolblue-team might take a bit longer."
+				},
+				{
+					"id": "5c29ef69-c4b3-4808-9480-4a0a98de624d",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "aboutcoolblue.com",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Site designed to host our annual numbers and information about Coolblue.\nNot developed by Coolblue,  so validation and acceptance by the Coolblue-team might take a bit longer than for the primary webshop."
+				},
+				{
+					"id": "5162bf63-b74e-4c3c-9d24-0862b0171fb5",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "reparatie.coolblue.be",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Site designed to handle repair requests. Not developed by Coolblue, but by an external party, so validation and acceptance by the Coolblue-team might take a bit longer than for the primary webshop."
+				},
+				{
+					"id": "69877026-83ac-450d-91e3-7e94d1db8e14",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "reparatie.coolblue.nl",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Site designed to handle repair requests. Not developed by Coolblue, but by an external party, so validation and acceptance by the Coolblue-team might take a bit longer than for the primary webshop."
+				},
+				{
+					"id": "e083ddbd-0dee-4cfd-89e8-2e545367d182",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "travaillerchezcoolblue.be",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Site designed to handle our job offers and vacancies.\nNot developed by Coolblue, but by an external party, so validation and acceptance by the Coolblue-team might take a bit longer."
+				},
+				{
+					"id": "026c7d2d-6b9b-4f26-ae2e-473015954ae9",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "werkenbijcoolblue.be",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Site designed to handle our job offers and vacancies.\nNot developed by Coolblue, but by an external party, so validation and acceptance by the Coolblue-team might take a bit longer."
+				},
+				{
+					"id": "a95e54ef-bd88-4a43-aabc-ad85894da03b",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "werkenbijcoolblue.com",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Site designed to handle our job offers and vacancies.\nNot developed by Coolblue, but by an external party, so validation and acceptance by the Coolblue-team might take a bit longer.\n"
+				},
+				{
+					"id": "257698b0-3e67-4da5-a51e-970877669144",
+					"type": {
+						"id": 1,
+						"value": "Url"
+					},
+					"endpoint": "werkenbijcoolblue.nl",
+					"tier": {
+						"id": 2,
+						"value": "Tier 3"
+					},
+					"description": "Site designed to handle our job offers and vacancies.\nNot developed by Coolblue, but by an external party, so validation and acceptance by the Coolblue-team might take a bit longer."
+				}
+			]
+		},
+		"rulesOfEngagement": {
+			"id": "e2ee2ca1-cb9f-4ed9-9622-5ced18a71f6d",
+			"createdAt": 1727967878,
+			"content": {
+				"description": "# **Rules of engagement**\n\n* Using your @intigriti.me  address is mandatory so we can trace your actions. \n* Always communicate the IP address you have used while testing. \n* Any products delivered to you that you have gained during this program must be returned to Coolblue.\n* In any communication with a Coolblue employee (i.e. chat, phone, email), state clearly who you are and what you are testing, announce explicitly that you are testing as part of this bug bounty program.\n\n**Automated tooling:**\nCountry of origin:\nNetherlands, Belgium, Germany up to 2 Requests per second. \n\nAny other country: \n0.3 Requests per second, or 1 request every 3 seconds. \n\n **Any Coolblue products delivered to you without payment must be returned to\nCoolblue.**\n\n* We are hosting at AWS, so please take into account their penetration testing policy which you can find at https://aws.amazon.com/security/penetration-testing/\n* Please do NOT publicly discuss or publish any vulnerability before it has been fixed and you have received explicit permission from us to do so. You can send us a video as proof of concept, but remember to change its privacy settings to private.\n* Perform testing only on in-scope assets and respect assets and activities which are out-of-scope. If unsure or need advice, contact us.\n* Make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service.\n* If a vulnerability provides unintended access to data, limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept.\n* Cease testing and submit a report immediately if you encounter any user data during testing, such as Personally Identifiable Information (PII), order history and information, payment data, or proprietary information.\n* Social engineering (e.g. phishing, vishing, smishing) is prohibited.\n* Do not attempt to execute Denial of Service attacks.",
+				"testingRequirements": {
+					"intigritiMe": true,
+					"automatedTooling": null,
+					"userAgent": "",
+					"requestHeader": ""
+				},
+				"safeHarbour": true
+			},
+			"attachments": []
+		},
+		"webLinks": {
+			"detail": "https://app-dev.intigriti.rocks/auth/dashboard?redirect=/programs/coolblue/coolblue/detail"
+		}
+	},
+	{
+		"id": "4352dcef-dfc5-4d74-8fd8-9bef5aa16f18",
+		"handle": "skodaautoprivatebugbountyprogram",
+		"name": "Skoda Auto Bug Bounty Program",
+		"following": false,
+		"confidentialityLevel": {
+			"id": 4,
+			"value": "Public"
+		},
+		"status": {
+			"id": 3,
+			"value": "Open"
+		},
+		"type": {
+			"id": 1,
+			"value": "Bug Bounty"
+		},
+		"domains": {
+			"id": "eaedd0a1-1394-406b-a0eb-973ce13058df",
+			"createdAt": 1708077914,
+			"content": [
+				{
+					"id": "7ab1da41-120c-4ab9-b6fe-ea587618de57",
+					"type": {
+						"id": 3,
+						"value": "iOS"
+					},
+					"endpoint": "1632202810",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				},
+				{
+					"id": "b177593a-bee1-45ec-a024-a7e9716e2a48",
+					"type": {
+						"id": 2,
+						"value": "Android"
+					},
+					"endpoint": "cz.skodaauto.myskoda",
+					"tier": {
+						"id": 3,
+						"value": "Tier 2"
+					},
+					"description": null
+				}
+			]
+		},
+		"rulesOfEngagement": {
+			"id": "57029d55-0dde-44d3-97e9-457e21e2f418",
+			"createdAt": 1715772313,
+			"content": {
+				"description": "#### By participating in this program, you agree to:\n\n* Respect the [Community Code of Conduct](https://go.intigriti.com/coc)\n* Respect the Intigriti [Terms and Conditions](https://go.intigriti.com/tac)\n* Respect the scope of the program\n* Not discuss or disclose vulnerability information without prior written consent (including PoC's on YouTube and Vimeo)\n* Not complete orders on weekend days  or holidays (according to the Czech calendar)\n\n\n**Validation times**\n\nWe will validate all submissions within the below timelines, once your submission has been verified by Intigriti.\nWorking day = In between 8 AM - 16 PM, CEST - only applicable for the validation of submissions, however submissions can be send whenever.\nSubmissions validated outside of this may be awarded a **€25 bonus**.\n\n| Vulnerability Severity | Time to validate |\n| -------- | -------- |\n| Exceptional | 2 Working days |\n| Critical | 2 Working days |\n| High     | 5 Working days |\n| Medium   | 15 Working days |\n| Low      | 15 Working days |\n\nThis remains at the discretion of Skoda Auto to award.\n\n**Check our fix**\nWe offer up to **€50 bonus** to verify a resolved issue for us (when requested).\nThis remains at the discretion of Skoda Auto to award.\n\n**In-factory hacking option**\nFor Rules of engagement in the event of **in-factory hacking**, you will need to sign **2 additional agreements** when coming to the factory. Please see attachments - **Obligation of Secrecy** (signed once for entry to the factory); **Handover Protocol** (signed each time a vehicle is handed over). **Your ID** will be checked upon entrance, and by reaching out to our e-mail address, you give us the confirmation to use **your contact info** to clear the details about the trip with you. All Terms and Conditions of the program are still valid.",
+				"testingRequirements": {
+					"intigritiMe": false,
+					"automatedTooling": null,
+					"userAgent": null,
+					"requestHeader": null
+				},
+				"safeHarbour": true
+			},
+			"attachments": [
+				{
+					"url": "https://app.intigriti.com/api/file/api/file/private_bucket_7490a089-c615-4521-94a2-5fbbd5c03f9b-dad9ab46-227b-4f11-8fb0-40b21bdf2b74?signature=AWSAccessKeyId%3Dintigriti%26Expires%3D1731961685%26Signature%3DOkJ2TxRckwR8wrkZaAh9VRdgRIc%253D",
+					"code": 159928
+				},
+				{
+					"url": "https://app.intigriti.com/api/file/api/file/private_bucket_df103b3a-1c9f-4a55-b914-769f4bbc8710-5f37496b-3ea9-4171-9fa0-896b4fab08fd?signature=AWSAccessKeyId%3Dintigriti%26Expires%3D1731961685%26Signature%3D9x%252BO490QrJoaP5hXkjC%252FoAl%252Fx8I%253D",
+					"code": 625475
+				}
+			]
+		},
+		"webLinks": {
+			"detail": "https://app-dev.intigriti.rocks/auth/dashboard?redirect=/programs/skodaauto/skodaautoprivatebugbountyprogram/detail"
+		}
+	}
+]

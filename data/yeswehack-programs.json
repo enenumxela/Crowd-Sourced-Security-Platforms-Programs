@@ -1,0 +1,5302 @@
+[
+	{
+		"name": "Bug Bounty SNCF Connect",
+		"url": "https://yeswehack.com/programs/bug-bounty-sncf-connect-1",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.sncf-connect.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://sncf-connect.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https//monidentifiant.sncf"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.sncf-connect.com/bff"
+			}
+		]
+	},
+	{
+		"name": "OTTO.DE Bug Bounty",
+		"url": "https://yeswehack.com/programs/otto-de-bug-bounty",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.otto.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.otto.de/jobs"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=de.cellular.ottohybrid\u0026hl=de"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.lascana.de/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://teleoptiprd.otto.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://mmp.otto.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://partnerprogramm.otto.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://orbidder.otto.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://supplier-connect.otto.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://retail-api.otto.de"
+			}
+		]
+	},
+	{
+		"name": "Givenchy Private Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/givenchy-private-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "givenchybeauty.com"
+			}
+		]
+	},
+	{
+		"name": "DataDome Bot Bounty",
+		"url": "https://yeswehack.com/programs/datadome-bot-bounty",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://bounty-nodejs.datashield.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://bounty-fastly.datashield.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://bounty-nginx.datashield.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.captcha-delivery.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "js.datadome.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "api-js.datadome.co"
+			}
+		]
+	},
+	{
+		"name": "L'Oréal Europe - Private program",
+		"url": "https://yeswehack.com/programs/loreal-europe-private-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "www.armani-beauty.at"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.armanibeauty.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.armanibeauty.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.armanibeauty.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.armanibeauty.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.armanibeauty.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.armanibeauty.be"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.armanibeauty.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.armanibeauty.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.biotherm.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.biotherm.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.biotherm.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.biotherm.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.carita.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.carita.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.carita.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.carita.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.carita.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.at"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.itcosmetics.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.itcosmetics.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.be"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kerastase.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kerastase.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kerastase.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kerastase.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kerastase.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.se"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.com.tr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.at"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.be"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.bg"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.cz"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.dk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.hr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.hu"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.no"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.pl"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.pt"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.ro"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.rs"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.si"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.sk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.co.il"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.com.tr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.bg"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.cz"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.hr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.hu"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.pl"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.be"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.ro"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.laroche-posay.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.laroche-posay.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.laroche-posay.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.loreal-paris.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.maybelline.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.mugler.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.mugler.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.nyxcosmetics-nordics.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.nyxcosmetics.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.nyxcosmetics.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.nyxcosmetics.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.nyxcosmetics.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.skinceuticals.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.skinceuticals.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.skinceuticals.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.skinceuticals.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.skinceuticals.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.skinceuticals.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.skinceuticals.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.urbandecay.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.be"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.at"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.vichy.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.youthtothepeople.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.ysl-beauty.be"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.ysl-beauty.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.at"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.it"
+			}
+		]
+	},
+	{
+		"name": "Singtel - Wildcard - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/singtel-wildcard-bug-bounty-program",
+		"assets": [
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.singtel.mysingtel"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/sg/app/my-singtel-app/id1054859191"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.singtel.heya\u0026hl=en\u0026gl=US"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/sg/app/heya/id1599196726"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.singtel.hiaccount"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/sg/app/singtel-prepaid-hi-app/id1034712778"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/sg/app/gomo-singapore/id1447453921"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.singtel.gomo.release"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/my/app/singtel-cast/id1115565258"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.singtel.play\u0026hl=en_SG\u0026gl=US"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/sg/app/singtel-tv-go/id541541129"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.singtel.miotvgo\u0026hl=en_SG\u0026gl=US"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://Gomo.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://buy.gomo.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.singtel.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.singtel.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://onepass.singtel.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://Singtelshop.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://Singtel-shop.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://shop.singtel.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://singtelcrm.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "*.singtel.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "*.gomo.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.99sme.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.openplatform.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtel.ai"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.Singtel.eu"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtel.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtel5gplatform.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelcast.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelcdo.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelchina.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtel-cloud.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelcrm.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singteldigital.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtele.net"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.mobileswop-singtel.asurion.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtel.dcp.ericsson.net"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelge.app.bigtincan.com.au"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtel-expan.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtel.invia.com.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelge.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelgroup.net"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singteliot.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelmailbiz.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelmailcrew.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelmybusiness.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelmyconnect.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelparagon.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "*.singtelsdwan.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singteltv.com.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singteltv.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singteltvgo.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.singtelwifiaas.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://myportal.singtel.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://mybusiness.singtel.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://portal.singtelge.com/"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "singteldns.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://99sme.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://singteltvgo.com"
+			}
+		]
+	},
+	{
+		"name": "VFS Global Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/vfs-global-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "*.vfsglobal.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.vfsglobal.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.vfsglobal.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.vfsevisa.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "onevasco.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.vascoworldwide.net"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.vfsvisaonline.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.dvpc.net"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.vfsvisaservicesrussia.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.directverify.in"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.docswallet.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "biometservices.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "agents.tasheer.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://gaadmin.vfsglobal.com/GlobalAdmin/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://gaadmin.vfsglobal.com/Global-Admin/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://rusadminappt.vfsglobal.com/Global-Admin/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://gaadmin.vfsglobal.com/AustraliaApptAdmin/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://onlinena.vfsglobal.dz/AppointmentAdmin/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://gaadmin.vfsglobal.com/DHAAppointmentAdmin"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://equatorialguinea-evisa.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://online.srilankaevisa.lk/lka/en/login"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://online.mustaqel.qa/qat/en/login"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://appointment.vfsglobal.com.dz/forms/FRDZ/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://vfs.mioot.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://vfseu.mioot.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.vfsvisaservice.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://indonesiavoa.vfsevisa.id/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.vfsglobalservices-germany.com/Global-Appointment/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://vc.tasheer.com/"
+			}
+		]
+	},
+	{
+		"name": "YesWeHack Dojo",
+		"url": "https://yeswehack.com/programs/dojo",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-37"
+			}
+		]
+	},
+	{
+		"name": "ownCloud - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/owncloud-bug-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "https://owncloud.org/install/#install-clients"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.owncloud.android"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/app/id1359583808"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/customgroups"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/guests"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/richdocuments"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/notifications"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/client"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/core"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/gallery"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/ocis"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/user_ldap"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/oauth2"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/activity"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/updater"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/core/tree/master/apps/files"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/android"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/owncloud/ios-app"
+			}
+		]
+	},
+	{
+		"name": "Swiss Post - Private Bug Bounty",
+		"url": "https://yeswehack.com/programs/swiss-post-private-bug-bounty",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://service.post.ch/aaw/external/ui/subscription/public/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.post.ch/de/standorte/hausservice"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://service.post.ch/lad*"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://webservices.post.ch:17010/IN_RHE/rhe/ws/v2/business/order/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://service.post.ch/rhe/rhe-public/ws/api/v1/orders"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.post.ch/pah/v1/orders"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://service.post.ch/pah/klp/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.post.ch/pah/vintra/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://dmc-light.post.ch/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://apps.post.ch/fb/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://service.post.ch/pccweb/"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://itunes.apple.com/ch/app/postcard-creator/id820354055?mt=8"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=ch.post.it.pcc\u0026hl=en"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.post.ch/en/pages/plz-suche"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.post.ch/de/pages/plz-suche"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.post.ch/fr/pages/plz-suche"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.post.ch/it/pages/plz-suche"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://postdoc.post.ch/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://service.post.ch/vsc/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://spi.post.ch/evd-evv/*"
+			}
+		]
+	},
+	{
+		"name": "Doctolib",
+		"url": "https://yeswehack.com/programs/doctolib-public-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "www.doctolib.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.doctolib.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.doctolib.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "pro.doctolib.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "pro.doctolib.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "pro.doctolib.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "Special"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.doctolib.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.doctolib.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.doctolib.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.doctolib.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.doctolib.net"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/fr/app/doctolib/id925339063"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "http://play.google.com/store/apps/details?id=fr.doctolib.www"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "*.siilo.com"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/ie/app/doctolib-siilo/id1083002150"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.siilo.android\u0026hl=en"
+			}
+		]
+	},
+	{
+		"name": "Qwant",
+		"url": "https://yeswehack.com/programs/qwant",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "www.qwant.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.qwant.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "s.qwant.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "s1.qwant.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "s2.qwant.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "qwantjunior.com"
+			}
+		]
+	},
+	{
+		"name": "Okto - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/okto-bug-bounty-program",
+		"assets": [
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/in/app/okto-wallet/id6450688229"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.coindcx.okto"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.okto.tech"
+			}
+		]
+	},
+	{
+		"name": "toom Baumarkt GmbH - Bug Bounty Program (toom.de)",
+		"url": "https://yeswehack.com/programs/toom-baumarkt-gmbh-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://toom.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.toom.de"
+			}
+		]
+	},
+	{
+		"name": "Swapcard",
+		"url": "https://yeswehack.com/programs/swapcard",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "api.swapcard.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "chat-api.swapcard.com/graphql"
+			},
+			{
+				"type": "URL",
+				"identifier": "developer.swapcard.com/event-admin/graphql"
+			},
+			{
+				"type": "URL",
+				"identifier": "login.swapcard.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "studio-api.swapcard.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "app.swapcard.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "studio.swapcard.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "team.swapcard.com"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/fr/app/swapcard/id879488719"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.swapcard.apps.android\u0026hl=fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "img.swapcard.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "t.swapcard.com"
+			}
+		]
+	},
+	{
+		"name": "Dailymotion public bug bounty",
+		"url": "https://yeswehack.com/programs/dailymotion-public-bug-bounty",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "*.dailymotion.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.api.dailymotion.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "developer.dailymotion.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.dmcdn.net"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion\u0026hl=fr\u0026gl=US"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/fr/app/dailymotion/id336978041"
+			},
+			{
+				"type": "URL",
+				"identifier": "ifttt-adaptor.pub.kube.dm.gg"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "AS41690"
+			},
+			{
+				"type": "URL",
+				"identifier": "dmxleo.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.dm.gg"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Google Cloud Plateform Instances"
+			}
+		]
+	},
+	{
+		"name": "Infomaniak Bug Bounty program",
+		"url": "https://yeswehack.com/programs/infomaniak-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "*.kdrive.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "login.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "manager.infomaniak.com/v3/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "shop.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.kchat.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "calendar.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "contacts.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "etickets.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "mail.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "swiss-backup*.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "vod.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.vod2.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "player-radio.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "welcome.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.swisstransfer.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "chk.infomaniak.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "ai-tools.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "kmeet.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "kpaste.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "sync.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "storage*.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "ix2smbdyjt.infomaniak.site"
+			},
+			{
+				"type": "URL",
+				"identifier": "5k8vrbdyje.infomaniak.site"
+			},
+			{
+				"type": "URL",
+				"identifier": "fv3lfbdyjh.infomaniak.site"
+			},
+			{
+				"type": "URL",
+				"identifier": "l75pvbdyjo.infomaniak.site"
+			},
+			{
+				"type": "URL",
+				"identifier": "infomaniak.events"
+			},
+			{
+				"type": "URL",
+				"identifier": "sms.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "developer.infomaniak.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "invitation.infomaniak.com"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.infomaniak.drive"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/app/infomaniak-kdrive/id1482778676"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/Infomaniak/desktop-kDrive"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/fr/app/infomaniak-mail/id1622596573"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.infomaniak.mail\u0026hl=en_US"
+			}
+		]
+	},
+	{
+		"name": "BETA.GOUV.FR - AGORA GOUV - Public Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/agora",
+		"assets": [
+			{
+				"type": "ANDROID",
+				"identifier": "Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)"
+			},
+			{
+				"type": "IOS",
+				"identifier": "Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://app.sandbox.agora.incubateur.net"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.sandbox.agora.incubateur.net"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://content.agora.beta.gouv.fr"
+			}
+		]
+	},
+	{
+		"name": "Spacelift.io - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/spacelift-io-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://*.app.spacelift.dev"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Native K8S workers and operator"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "OIDC-based API keys"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "MFA"
+			}
+		]
+	},
+	{
+		"name": "OVH",
+		"url": "https://yeswehack.com/programs/ovh",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "api.ovh.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.ovh.com/manager"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.ovh.com"
+			}
+		]
+	},
+	{
+		"name": "KOMOJU - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/degica-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://yeswehack-staging.komoju.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://multipay-staging.test.komoju.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://doc.komoju.com/docs/fields-overview"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/degica/komoju-woocommerce"
+			}
+		]
+	},
+	{
+		"name": "Deezer Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/deezer-bug-bounty-program-2019",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "www.deezer.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "connect.deezer.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.deezer.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "payment.deezer.com"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "Android Deezer App"
+			},
+			{
+				"type": "IOS",
+				"identifier": "iOS Deezer App"
+			},
+			{
+				"type": "URL",
+				"identifier": "zen.deezer.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "wellbeing.deezer.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "wellbeing.dzcdn.net"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "Android Zen App"
+			},
+			{
+				"type": "IOS",
+				"identifier": "iOS Zen App"
+			}
+		]
+	},
+	{
+		"name": "Ezviz - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/ezviz-bug-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "Hardware found on https://www.ezviz.com/category/security-wifi-cameras"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Hardware found on https://www.ezviz.com/category/smart-home"
+			},
+			{
+				"type": "URL",
+				"identifier": "i.ys7.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "open.ys7.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "auth.ys7.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.ys7.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.ezvizlife.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "usauth.ezvizlife.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "ius.ezvizlife.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.ys7.com"
+			},
+			{
+				"type": "URL",
+				"identifier": ".eziot.com"
+			}
+		]
+	},
+	{
+		"name": "GovTech - Vulnerability Disclosure Programme",
+		"url": "https://yeswehack.com/programs/govtech-vulnerability-disclosure-programme-policy",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "*.gov.sg"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Domains where GovTech is the registrar"
+			}
+		]
+	},
+	{
+		"name": "Pine Labs Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/pine-labs-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://billingserver.pinelabs.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "dashboard.pluralonline.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://lounge.pinelabs.com/loungeui/login"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pinepgconsole.in:9099"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://paymentoptimizerdashboard.pinepg.in/"
+			},
+			{
+				"type": "URL",
+				"identifier": "analytics.pinelabs.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "corporate.pineperks.in"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.pineperks.in"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://myplutus.pinelabs.my/"
+			},
+			{
+				"type": "URL",
+				"identifier": "trm.pinepaymentsolutions.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://trm.pinelabs.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.pinelabs.ae/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.letspaylater.ph/"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/in/app/pineperks/id908644471"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.pinegift"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://credit.pinelabs.com"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.pinelabs.pinelabsone"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/in/app/pine-labs-one/id6444654068"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://one.pinelabs.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://plmcixt.pinelabs.com/"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs\u0026hl=uz"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://emistores.pinelabs.com/"
+			}
+		]
+	},
+	{
+		"name": "3DS OUTSCALE",
+		"url": "https://yeswehack.com/programs/outscale",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://cockpit-eu-west-2.outscale.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://fcu.eu-west-2.outscale.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://lbu.eu-west-2.outscale.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://osu.eu-west-2.outscale.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://eim.eu-west-2.outscale.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://icu.eu-west-2.outscale.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://directlink.eu-west-2.outscale.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Any resource created or accessed with the Outscale Cloud, on all regions"
+			}
+		]
+	},
+	{
+		"name": "Telenor Sweden Public Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "*.telenor.se"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.bredbandsbolaget.se"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.europolitan.se"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.ownit.se"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.vimla.se"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.vimla.work"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.vimla.io"
+			}
+		]
+	},
+	{
+		"name": "IG Bug Bounty Programme",
+		"url": "https://yeswehack.com/programs/copy-of-ig-group-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.ig.com/{country"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.ig.com/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.dailyfx.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.dailyfxasia.com/"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.iggroup.android.cfd\u0026hl=en-IN"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/gb/app/ig-trading-platform/id406492428"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://demo-deal.ig.com/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.ig.com"
+			}
+		]
+	},
+	{
+		"name": "BookBeat",
+		"url": "https://yeswehack.com/programs/bookbeat",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.bookbeat.com"
+			}
+		]
+	},
+	{
+		"name": "Swiss Post",
+		"url": "https://yeswehack.com/programs/swiss-post",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "(*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://account.post.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://shop.post.ch/shop"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://service.post.ch/ekp-web/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://service.post.ch/zopa/app/"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.nth.swisspost\u0026hl=de_CH\u0026gl=US"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/ch/app/die-post/id378676700"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://billingonline.post.ch/OnlinePayment/Web/v1/BOI"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://service.post.ch/ele-klp/ele/"
+			}
+		]
+	},
+	{
+		"name": "Bug Bounty Program - BlaBlaCar",
+		"url": "https://yeswehack.com/programs/bug-bounty-program-blablacar",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.in"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.mx"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.be"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.hr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.hu"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.pl"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.br"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.pt"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.ro"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.ru"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.tr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://edge.blablacar.com.ua"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.in"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.mx"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.be"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.hr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.hu"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.pl"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.br"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.pt"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.ro"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.ru"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.tr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.blablacar.com.ua"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.in"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.mx"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.be"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.hr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.hu"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.pl"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.br"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.pt"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.ro"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.ru"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.tr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.blablacar.com.ua"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.in"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.es"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.mx"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.be"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.hr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.hu"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.it"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.nl"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.pl"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.br"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.pt"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.ro"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.ru"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.tr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.blablacar.com.ua"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.comuto\u0026hl=en"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en\u0026mt=8"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.blablalines.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://daily.blablacar.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://blablacardaily.com"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.blablalines"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288"
+			}
+		]
+	},
+	{
+		"name": "Yes We Hack",
+		"url": "https://yeswehack.com/programs/yes-we-hack",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://yeswehack.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.yeswehack.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://apps.yeswehack.com"
+			}
+		]
+	},
+	{
+		"name": "Banco Galicia - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/banco-galicia-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://galicia.ar"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/ar/app/galicia-el-banco-en-tu-celu/id774860115?l=en-GB"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.mosync.app_Banco_Galicia\u0026hl=es_AR\u0026gl=US"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://research.bancogalicia.com.ar/"
+			},
+			{
+				"type": "URL",
+				"identifier": "bffa.bancogalicia.com.ar"
+			}
+		]
+	},
+	{
+		"name": "Legapass",
+		"url": "https://yeswehack.com/programs/legapass-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://bounty.legapass.com"
+			}
+		]
+	},
+	{
+		"name": "Alpari LTD - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/alpari-ltd-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://alpari.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://my.alpari.com"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=ru.alpari.mobile"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/fr/app/alpari-mobile-analytics/id1481169487"
+			}
+		]
+	},
+	{
+		"name": "Niantic, Inc. Private Bug Bounty",
+		"url": "https://yeswehack.com/programs/niantic-inc-private-bug-bounty",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "Ingress Prime"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.nianticlabs.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.niantic.team"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.niantic.dev"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.ingress.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "nianticgar.nianticlabs.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "gitlab.nianticlabs.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "wayfarer.nianticlabs.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.eng.nianticlabs.com"
+			}
+		]
+	},
+	{
+		"name": "Alasco GmbH - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "app.alasco.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.alasco.de"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "*.alasco.de"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "*.alasco.rocks"
+			}
+		]
+	},
+	{
+		"name": "Thalia Bücher Gmbh - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/thalia-bucher-gmbh-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.thalia.de/"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/de/app/thalia-lesen-h%C3%B6ren/id6502643336"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=eu.thalia.app"
+			}
+		]
+	},
+	{
+		"name": "GNOME Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/gnome-bug-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "GLib"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "glib-networking"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "libsoup"
+			}
+		]
+	},
+	{
+		"name": "Cybermalveillance.gouv.fr  - sensibilization, prevention and support in terms of cybersecurity",
+		"url": "https://yeswehack.com/programs/cybermalveillance-gouv-fr-sensibilization-prevention-and-support-in-terms-of-cybersecurity",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://pprd.cybermalveillance.gouv.fr"
+			}
+		]
+	},
+	{
+		"name": "Contentsquare Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/contentsquare-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "*.contentsquare.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://mobile-production.content-square.net/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://m.csqtrk.net"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://s.contentsquare.net"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Contentsquare SDK (cf : Program Description)"
+			}
+		]
+	},
+	{
+		"name": "Sogexia",
+		"url": "https://yeswehack.com/programs/sogexia",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://my.sogexia.com"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq\u0026hl=fr"
+			},
+			{
+				"type": "IOS",
+				"identifier": "itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1"
+			}
+		]
+	},
+	{
+		"name": "Lifen",
+		"url": "https://yeswehack.com/programs/lifen",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "app.post-prod.lifen.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "api-app.public.post-prod.lifen.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "oauth.public.post-prod.lifen.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "admin.public.post-prod.lifen.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "my.post-prod.lifen.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "onboarding.public.post-prod.lifen.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "dashboard.public.post-prod.lifen.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "authentication.post-prod.lifen.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "*.lifen.fr"
+			}
+		]
+	},
+	{
+		"name": "DFS Main Assets – Bug Bounty program",
+		"url": "https://yeswehack.com/programs/dfs-main-assets-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://api.dfs.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.dfsglobal.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.dfs.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://mulapi.dfs.com/prod/lty-digital-identity/v1/identity/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://mulapi.dfs.com/prod/lty-digital-identity/v1/management/*"
+			}
+		]
+	},
+	{
+		"name": "MUFE Private bug bounty program",
+		"url": "https://yeswehack.com/programs/mufe-private-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.makeupforever.com/"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://www.makeupforever.com/eu/en/morphobeauty"
+			}
+		]
+	},
+	{
+		"name": "Sephora - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/sephora-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.sephora.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.sephora.eu"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.sephora.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.sephora.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.sephora.com.mx"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.sephora.com.br"
+			}
+		]
+	},
+	{
+		"name": "Withings",
+		"url": "https://yeswehack.com/programs/withings-public-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://wbsapi.withings.net"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://healthmate.withings.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://account.withings.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://app.withings.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://developer.withings.com/dashboard/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://scalews.withings.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Body Scan scale"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Body Comp scale"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Scanwatch Light"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Scanwatch 2"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Scanwatch Nova"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Scanwatch"
+			}
+		]
+	},
+	{
+		"name": "Coindcx - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/coindcx-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "*.coindcx.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.coindcx.com"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.coindcx.btc"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/in/app/coindcx-trade-bitcoin-crypto/id1517787269"
+			}
+		]
+	},
+	{
+		"name": "Ooredoo QPSC - Customer Portal Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.ooredoo.qa"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://mobile.ooredoo.qa"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=qa.ooredoo.android\u0026hl=en\u0026gl=US"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/qa/app/ooredoo-qatar/id619828745"
+			}
+		]
+	},
+	{
+		"name": "DBS Wildcard Program",
+		"url": "https://yeswehack.com/programs/dbs-wildcard-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "internet-banking.retail.dbsbank.in"
+			},
+			{
+				"type": "URL",
+				"identifier": "internet-banking.dbs.com.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "internet-banking.hk.dbs.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "internet-banking.dbs.com.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "internet-banking.dbs.com.tw"
+			},
+			{
+				"type": "URL",
+				"identifier": "internet-banking.dbs.com.tw/cardplus/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "ideal.dbs.com/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "www1.dbsvonline.com/OTS/English/Login/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "ddex.dbs.com/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "eli.dbs.com/*"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.dbs.sg.dbsmbanking\u0026hl=en\u0026gl=US"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.dbs.dbspaylah\u0026hl=en\u0026gl=US"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.dbs.ideal\u0026hl=en\u0026gl=US"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/sg/app/dbs-digibank/id1068403826"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/sg/app/dbs-paylah/id878528688"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/sg/app/dbs-ideal-mobile/id445770685"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.posb.com.sg/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.dbs.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.dbs.id"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.dbs.com.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.dbs.com.tw"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.dbs.com.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.dbs.com.hk/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.dbs.com.sg/personal/marketplace/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.dbs.com/insightsdirect/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "treasuryprism.dbs.com/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "hk.warrants.dbs.com/en/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.dbs.com/insightsdirect/api/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "treasuryprism.dbs.com/dadv/api/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "dbs.com/sandbox/api/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.dbs.com.sg/api/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.dbs.com/design/*"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Critical Reward Grid"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "High Reward Grid"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Low Reward Grid"
+			}
+		]
+	},
+	{
+		"name": "Swiss Post - E-Voting",
+		"url": "https://yeswehack.com/programs/swiss-post-evoting",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "Source Code"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "System Specification"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Scenarios with Special Bounties"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Protocol of the Swiss Post Voting System"
+			}
+		]
+	},
+	{
+		"name": "TeamViewer - Bounty Program",
+		"url": "https://yeswehack.com/programs/teamviewer-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "https://www.teamviewer.com/en/products/teamviewer/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://web.teamviewer.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://account.teamviewer.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://login.teamviewer.com"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile\u0026hl=en\u0026gl=US"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market\u0026hl=en\u0026gl=US"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.teamviewer.host.market\u0026hl=en\u0026gl=US"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/de/app/teamviewer-remote-control/id692035811"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/de/app/teamviewer-quicksupport/id661649585"
+			}
+		]
+	},
+	{
+		"name": "Thüringer Aufbaubank Bug Bounty Program Private",
+		"url": "https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program-legacy",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://portal.aufbaubank.de"
+			}
+		]
+	},
+	{
+		"name": "Cryptobox",
+		"url": "https://yeswehack.com/programs/cryptobox-bug-bounty",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://bounty.cryptobox.com"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release\u0026hl=fr"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/fr/app/cryptobox/id972602802"
+			}
+		]
+	},
+	{
+		"name": "StashAway Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/stashaway-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.stashaway.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.stashaway.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.stashaway.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.stashaway.my"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.stashaway.co.th"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.awp.stashaway"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/us/app/stashaway-wealth-manager/id1229966330"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.stashaway.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.stashaway.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.stashaway.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.stashaway.my"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.stashaway.co.th"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://app.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://app.stashaway.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://app.stashaway.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://app.stashaway.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://app.stashaway.my"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://app.stashaway.co.th"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://appgallery.huawei.com/#/app/C100318407"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.production.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.production.stashaway.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.production.stashaway.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.production.stashaway.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.production.stashaway.my"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.production.stashaway.co.th"
+			},
+			{
+				"type": "URL",
+				"identifier": "whatsapp-connector.production.external.stashaway.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "whatsapp-connector.production.external.stashaway.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "whatsapp-connector.production.external.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "whatsapp-connector.production.external.stashaway.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "whatsapp-connector.production.external.stashaway.my"
+			},
+			{
+				"type": "URL",
+				"identifier": "whatsapp-connector.production.external.stashaway.co.th"
+			},
+			{
+				"type": "URL",
+				"identifier": "collect.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "git.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "gitlab.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "registry.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "tracker.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "collector.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "emarsys-connector.production.external.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.stashaway.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.stashaway.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.stashaway.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.stashaway.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.stashaway.my"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.stashaway.co.th"
+			}
+		]
+	},
+	{
+		"name": "L'Oréal NASAPMENA - Private program",
+		"url": "https://yeswehack.com/programs/loreal-nasapmena-private-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "www.armanibeauty.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.armanibeauty.sa"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.biotherm.co.th"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.biotherm.com.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.biotherm.com.tw"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.dermaclub.com.vn"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.giorgioarmanibeauty.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.giorgioarmanibeauty.com.au"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.giorgioarmanibeauty.com.tw"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.com.tw"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.helenarubinstein.jp"
+			},
+			{
+				"type": "URL",
+				"identifier": "shop.helenarubinstein.com.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.itcosmetics.com.au"
+			},
+			{
+				"type": "URL",
+				"identifier": "sa.kerastase.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kerastase.in"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kerastase.com.kw"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kerastase.com.au"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kerastase.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.sa"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.co.kr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.com.my"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.com.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.co.th"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.co.id"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.com.au"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.com.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.com.vn"
+			},
+			{
+				"type": "URL",
+				"identifier": "shop.kiehls.com.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.co.nz"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.com.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.com.tw"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.jp"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.kiehls.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.com.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.in"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.com.my"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.com.au"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.com.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.com.tw"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.vn"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.com.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "rewards.lancome.com.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "shop.lancome.com.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.my-lancome.com.tw"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.co.kr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.jp"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lancome.sa"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lorealsalonshop.com.ph"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.lorealsalonshop.co.id"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.laroche-posay.jp"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.laroche-posay.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.laroche-posay.com.au"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.larocheposay.vn"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.larocheposay.co.kr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.shu-uemura.com.hk"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.shuuemura.jp"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.shuuemura.com.my"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.shuuemura.com.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.shuuemura.com.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.skinceuticals.com.au"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.takami-labo.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.takami-labo.com.tw"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.jp"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.valentino-beauty.com.tw"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.com.my"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeautyth.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.sa"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.com.au"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.ae"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslb.jp"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeautycn.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.com.sg"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.co.id"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeautykr.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.yslbeauty.com.tw"
+			}
+		]
+	},
+	{
+		"name": "Exinity LTD - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/exinity-ltd-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://forextime.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://my.forextime.com"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.fxtm.prod\u0026hl=en\u0026gl=US"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/gh/app/fxtm-trader-forex-trading/id1265719831"
+			}
+		]
+	},
+	{
+		"name": "PowerDNS",
+		"url": "https://yeswehack.com/programs/powerdns",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "PowerDNS authoritative server, recursor and DNSdist (see \"Software packages\" and \"Source-code\")"
+			}
+		]
+	},
+	{
+		"name": "OX App Suite",
+		"url": "https://yeswehack.com/programs/app-suite",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://sandbox.open-xchange.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://sandbox.open-xchange.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "GitLab and GitHub repos listed on this page"
+			}
+		]
+	},
+	{
+		"name": "Moneybox Bug Bounty",
+		"url": "https://yeswehack.com/programs/moneybox-bug-bounty",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://api.moneyboxapp.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://admin.moneyboxapp.org/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://admin-roundups.moneyboxapp.org/"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.moneyboxapp"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://sycamore.moneyboxapp.org/"
+			}
+		]
+	},
+	{
+		"name": "Mon Espace Santé (MES)",
+		"url": "https://yeswehack.com/programs/mon-espace-sante-mes",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "www.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "admincms.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "adminstore.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "auth.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "cms.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "editeur.api.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "editeurs.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "knowage.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "support.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.editeur.preprod.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.preprod.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "auth.preprod.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "preprod.api.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "preprod.auth.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "preprod.editeur.api.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "preprod.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "preprod1.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "preprod2.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "securite.monespacesante.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "am.monespacesante.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "editeur.am.monespacesante.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "am.editeur.preprod.monespacesante.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "am.preprod.monespacesante.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "preprod.am.monespacesante.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "preprod.editeur.am.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.preprod.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.preprod1.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.preprod2.monespacesante.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "www.am.monespacesante.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "www.editeur.am.monespacesante.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.editeur.api.monespacesante.fr"
+			},
+			{
+				"type": "IOS",
+				"identifier": "apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante\u0026showAllReviews=true (Android)"
+			}
+		]
+	},
+	{
+		"name": "Maya - Public Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/maya-public-bug-bounty-program",
+		"assets": [
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.paymaya"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://appgallery.huawei.com/app/C101186357"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.paymaya.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pg.paymaya.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://payoutapi.maya.ph/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://op.paymaya.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://connect.paymaya.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://paymayabiller-prod.paymaya.com/"
+			}
+		]
+	},
+	{
+		"name": "France Identité Numérique - Public Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/france-identite-numerique-public-bug-bounty-program",
+		"assets": [
+			{
+				"type": "ANDROID",
+				"identifier": "France Identité mobile application for Android (see link in program description)"
+			},
+			{
+				"type": "IOS",
+				"identifier": "France Identité mobile application for iOS (see link in program description)"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://mobile.france-identite.gouv.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Specific scenarios"
+			}
+		]
+	},
+	{
+		"name": "Programme de prime aux bogues du Gouvernement du Québec",
+		"url": "https://yeswehack.com/programs/programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://pbgq.deontologie-policiere.gouv.qc.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pbgq-pes.deontologie-policiere.gouv.qc.ca/plainte-commissaire"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pbgq-pes.deontologie-policiere.gouv.qc.ca/reponses-questions"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://reptox.cnesst.gouv.qc.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://profile.pentest.clicsante.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://clients3.pentest.clicsante.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://portal3.pentest.clicsante.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api3.pentest.clicsante.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://admin3.pentest.clicsante.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://poc-op-ywh.it.authentification.si.gouv.qc.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth-ywh.it.authentification.si.gouv.qc.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.cyber.gouv.qc.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pab.donneesquebec.ca"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://gap.citizenportal-test.bugbounty.akinox.dev"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://test.m4sv.bugbounty.akinox.dev"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pbgq.upac.gouv.qc.ca/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pbgq-pes.upac.gouv.qc.ca/denonciation/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pbgq-pes.upac.gouv.qc.ca/nous-joindre/"
+			}
+		]
+	},
+	{
+		"name": "CycloneDX Rust Cargo Bounty Program",
+		"url": "https://yeswehack.com/programs/cyclonedx-rust-cargo-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "cyclonedx-bom"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "cargo-cyclonedx"
+			}
+		]
+	},
+	{
+		"name": "Alasco GmbH - Bug Bounty Program - Alasco App",
+		"url": "https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program-alasco-app",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "app-bug-bounty.alasco.rocks"
+			},
+			{
+				"type": "URL",
+				"identifier": "api-bug-bounty.alasco.rocks"
+			}
+		]
+	},
+	{
+		"name": "Société des grands projets - Bug Bounty",
+		"url": "https://yeswehack.com/programs/societe-du-grand-paris-bug-bounty",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://s-print.sgp.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://osiris-preprod.sgp.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://songe-preprod.societedugrandparis.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.grandparisexpress.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://sig-preprod.sgp.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://explorer-externe.sgp.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://deblaispreprodtma.sgp.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api-deblaispreprodtma.sgp.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.societedesgrandsprojets.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://portailassistance-recette.sgp.fr/HEAT/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://econtacts.sgp.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://elios-preprod.sgp.fr"
+			}
+		]
+	},
+	{
+		"name": "YourParkingSpace - Private Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/yourparkingspace-private-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "www.yourparkingspace.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.yourparkingspace.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://analytics.yourparkingspace.co.uk/"
+			},
+			{
+				"type": "URL",
+				"identifier": "anpr.yourparkingspace.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "appsmith.services.yourparkingspace.co.uk"
+			},
+			{
+				"type": "URL",
+				"identifier": "vpn.yps.tools"
+			}
+		]
+	},
+	{
+		"name": "DataDome Bug Bounty",
+		"url": "https://yeswehack.com/programs/datadome-bug-bounty",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://app.datadome.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://customer-api.datadome.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.datadome.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api-js.datadome.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://*.captcha-delivery.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://auth.datadome.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://datadome.co"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://bot-tester.datadome.co/"
+			}
+		]
+	},
+	{
+		"name": "Dovecot",
+		"url": "https://yeswehack.com/programs/dovecot",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "Dovecot IMAP Server and Pigeonhole SIEVE (see \"Software packages\" and \"Source code\")"
+			}
+		]
+	},
+	{
+		"name": "Guerlain Private bug bounty program",
+		"url": "https://yeswehack.com/programs/guerlain-private-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.guerlain.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://stores.guerlain.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://faq.guerlain.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://guerlain-sandbox.buybox.net/"
+			}
+		]
+	},
+	{
+		"name": "France Travail - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/pole-emploi-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://mes-aides.francetravail.fr/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://anotea.francetravail.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api2.francetravail.fr/candidat/documents-usager/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://maformationapi.francetravail.fr/formation/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://maformationapi.francetravail.fr/documents-usager"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.francetravail.fr"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.poleemploi.pemobile"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://itunes.apple.com/fr/app/mes-offres-pôle-emploi/id563863597?mt=8#see-all/more-by-this-developer"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.emploi-store.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://francetravail.io"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.francetravail.io"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://labonneboite.francetravail.fr"
+			}
+		]
+	},
+	{
+		"name": "DANA Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/dana-bug-bounty-program",
+		"assets": [
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=id.dana\u0026hl=en"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/id/app/dana/id1437123008"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://appgallery.huawei.com/#/app/C100570215"
+			},
+			{
+				"type": "URL",
+				"identifier": "mgs-gw.m.dana.id"
+			},
+			{
+				"type": "URL",
+				"identifier": "api-saas.dana.id"
+			},
+			{
+				"type": "URL",
+				"identifier": "sec.m.dana.id"
+			},
+			{
+				"type": "URL",
+				"identifier": "m.dana.id"
+			}
+		]
+	},
+	{
+		"name": "DPD Ireland Web and API bug Bounty",
+		"url": "https://yeswehack.com/programs/dpd-ireland-web-and-api-bug-bounty",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://customsauthorize.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://customspayments.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://manage.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://tracking.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://papi.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api2.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://dcentral.dpd.ie"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://soti.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https//depot-webcollections.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://w2.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://my.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://cp.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://vpn2.dpd.ie"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.dpd.ie"
+			}
+		]
+	},
+	{
+		"name": "Tencent Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/tencent-bug-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)"
+			}
+		]
+	},
+	{
+		"name": "PlayPlay - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/playplay-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://playplay.com/app/*"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://storage.playplay.com/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://playplay.com/api/*"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://playplay.com/admin/*"
+			}
+		]
+	},
+	{
+		"name": "Louis Vuitton Malletier - Worldwide",
+		"url": "https://yeswehack.com/programs/louis-vuitton-malletier-corporate-website",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://*.louisvuitton.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://*.louisvuitton.cn"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/fr/app/louis-vuitton/id709101942"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.vuitton.android\u0026hl=fr\u0026gl=US"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://horizonv2prodapi.azurewebsites.net"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/fr/app/louis-vuitton-city-guide/id1014618396"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://appgallery.huawei.com/#/app/C102099703?locale=zh_CN\u0026source=appshare\u0026subsource=C102099703"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://[it"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://secure.louisvuitton.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://account.louisvuitton.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.louisvuitton.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.louisvuitton.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://secure.louisvuitton.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://account.louisvuitton.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.louisvuitton.cn"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.louisvuittonwatchprize.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.louisvuittondesigngraduates.com"
+			}
+		]
+	},
+	{
+		"name": "MatrixALM",
+		"url": "https://yeswehack.com/programs/matrixalm",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "hack1.mtrx.ovh"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://hackme.matrixreq.com"
+			}
+		]
+	},
+	{
+		"name": "Apache Log4j - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/log4j-bug-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "Log4j 2.x"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Log4j API for Kotlin"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Log4j API for Scala"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Log4cxx"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Log4net"
+			}
+		]
+	},
+	{
+		"name": "Salt Mobile SA - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/salt-mobile-sa-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://my.salt.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://eshop.salt.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://login.salt.ch"
+			}
+		]
+	},
+	{
+		"name": "DINUM - Démarches Simplifiées - Public Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/demarches-simplifiees-public",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.demarches-simplifiees.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.demarches-simplifiees.fr/graphql"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.demarches-simplifiees.fr/api/v2/graphql"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://static.demarches-simplifiees.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)"
+			}
+		]
+	},
+	{
+		"name": "OpenPGP.js Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/openpgp-js-bug-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "Security Vulnerability in OpenPGP.js's high-level API"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Security Vulnerability in the OpenPGP Standard"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Interoperability Issue in OpenPGP.js"
+			}
+		]
+	},
+	{
+		"name": "L'Oréal Global - Private program",
+		"url": "https://yeswehack.com/programs/loreal-global-private-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "nglora.e-loreal.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.loreal-finance.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.loreal.com"
+			}
+		]
+	},
+	{
+		"name": "ATG Public Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/atg-public-bug-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "*.atg.se"
+			},
+			{
+				"type": "URL",
+				"identifier": "www.atg.se"
+			},
+			{
+				"type": "URL",
+				"identifier": "api.atg.se"
+			},
+			{
+				"type": "URL",
+				"identifier": "iam.atg.se"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/se/app/atg/id1434660322"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://apps.apple.com/se/app/atg-live/id1608156355"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=se.atg.live\u0026hl=en\u0026gl=SE"
+			}
+		]
+	},
+	{
+		"name": "Kiwai",
+		"url": "https://yeswehack.com/programs/kiwai",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.hpr.kiwai-normandie.fr/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.api.hpr.kiwai-normandie.fr/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.ppr.kiwai-enr.fr/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.kiwai-enr.fr/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.api.kiwai-normandie.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.kiwai-normandie.fr/"
+			}
+		]
+	},
+	{
+		"name": "DINUM - Tchap - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/tchap-public",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.tchap.gouv.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://matrix.agent.tchap.gouv.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://matrix.agent.*.tchap.gouv.fr"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/tchapgouv"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=fr.gouv.tchap.a\u0026hl=fr"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/fr/app/tchap/id1446253779"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.beta.tchap.gouv.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://matrix.i.tchap.gouv.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://matrix.e.tchap.gouv.fr"
+			}
+		]
+	},
+	{
+		"name": "DRACOON – Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/dracoon-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://bounty-cloud.dracoon.app/api"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://bounty-cloud.dracoon.app/oauth"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://0-2744452194.s3.nbg01.de.dracoon.io"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://bounty-cloud.dracoon.app/mediaserver"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://bounty-cloud.dracoon.app/reporting/api"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://bounty-cloud.dracoon.app/webdav"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://bounty-cloud.dracoon.app/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://bounty-server.dracoon.app/api"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://bounty-server.dracoon.app/oauth"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://bounty-server.dracoon.app/reporting/api"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://bounty-server.dracoon.app/webdav"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://bounty-server.dracoon.app/"
+			}
+		]
+	},
+	{
+		"name": "Lombard Odier \u0026 Cie SA - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/lombard-odier-cie-sa-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://test.azuretest.lombardodier.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://*.lombardodier.com"
+			},
+			{
+				"type": "IP",
+				"identifier": "80.169.233.0/24"
+			},
+			{
+				"type": "IP",
+				"identifier": "194.6.163.0/24"
+			},
+			{
+				"type": "IP",
+				"identifier": "185.191.68.0/22"
+			}
+		]
+	},
+	{
+		"name": "Groupe Pomona - sites eCommerce",
+		"url": "https://yeswehack.com/programs/groupe-pomona-sites-ecommerce",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://www.terreazur.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.passionfroid.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.episaveurs.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.groupe-pomona.fr"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "myPomona (PlayStore Android)"
+			},
+			{
+				"type": "IOS",
+				"identifier": "myPomona (AppleStore)"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.saveursdantoine.fr/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.relaisdor.fr/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://www.deliceetcreation.fr/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://mypomona-statiques-files-prod.s3.eu-west-3.amazonaws.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://webshop.relaisdor.fr/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://produits.prd.groupe-pomona.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://produits.rec.groupe-pomona.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://produits.int.groupe-pomona.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://produits.groupe-pomona.fr"
+			}
+		]
+	},
+	{
+		"name": "Maya - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/maya-bug-bounty-program",
+		"assets": [
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.paymaya"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://appgallery.huawei.com/app/C101186357"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.paymaya.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://pg.paymaya.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://payoutapi.maya.ph/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://op.paymaya.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://connect.paymaya.com/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://paymayabiller-prod.paymaya.com/"
+			}
+		]
+	},
+	{
+		"name": "Alma",
+		"url": "https://yeswehack.com/programs/alma",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://api.sandbox.getalma.eu"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://*.sandbox.getalma.eu"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.sandbox.almapay.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://*.sandbox.almapay.com"
+			}
+		]
+	},
+	{
+		"name": "Niantic, Inc. Campfire Bug Bounty",
+		"url": "https://yeswehack.com/programs/niantic-inc-campfire-bug-bounty",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "Campfire"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "niantic-social.nianticlabs.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "niantic-social-api.nianticlabs.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "niantic-social-drops.nianticlabs.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "social.nianticlabs.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "campfire.nianticlabs.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "campfire-grafana.nianticlabs.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "campfire-rel-admin.eng.nianticlabs.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "platform-social-admin.nianticlabs.com"
+			}
+		]
+	},
+	{
+		"name": "Niantic, Inc. Pikmin Bloom Bug Bounty",
+		"url": "https://yeswehack.com/programs/niantic-inc-pikmin-bloom-bug-bounty",
+		"assets": [
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/us/app/pikmin-bloom/id1556357398"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.pikminbloom.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "Backend"
+			}
+		]
+	},
+	{
+		"name": "Niantic, Inc. Pokemon Go Bug Bounty",
+		"url": "https://yeswehack.com/programs/niantic-inc-pokemon-go-bug-bounty",
+		"assets": [
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.pokemongolive.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "Backend"
+			}
+		]
+	},
+	{
+		"name": "Thüringer Aufbaubank Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://thueringer-foerderportal.eu"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://ecohesion.aufbaubank.de"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://login.aufbaubank.de"
+			}
+		]
+	},
+	{
+		"name": "DINUM - FranceConnect / FranceConnect+ / AgentConnect - Public Program",
+		"url": "https://yeswehack.com/programs/franceconnect-agentconnect-public",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "Specific scenarios (see program description)"
+			},
+			{
+				"type": "URL",
+				"identifier": "AgentConnect"
+			},
+			{
+				"type": "URL",
+				"identifier": "FranceConnect+"
+			},
+			{
+				"type": "URL",
+				"identifier": "FranceConnect"
+			},
+			{
+				"type": "URL",
+				"identifier": "eIDAS"
+			},
+			{
+				"type": "URL",
+				"identifier": "User"
+			}
+		]
+	},
+	{
+		"name": "Sequoia PGP Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/sequoia-pgp-bug-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "buffered-reader"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "nettle-sys"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "nettle-rs"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "SHA1-CD"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sequoia-openpgp"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sequoia-autocrypt"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sequoia-ipc"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sequoia-net"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Shared OpenPGP Certificate Directory"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sequoia-cert-store"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sequoia-wot"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sequoia-policy-config"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "rpm-sequoia"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sqv"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sq"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sqop"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "octopus"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "sequoia-git"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "OpenPGP Cert Directory Specification"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Web of Trust Specification"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Sequoia git Specification"
+			}
+		]
+	},
+	{
+		"name": "International SOS - SFTP - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/international-sos-sftp",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://sftp.internationalsos.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://sftp.internationalsos.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://sftp-stage.internationalsos.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://sftp-stage.internationalsos.com"
+			}
+		]
+	},
+	{
+		"name": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
+		"url": "https://yeswehack.com/programs/zecible-public-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "serveur12.notebleue.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "ywh.comptage.zecible.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "ywh.static.zecible.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "ywh.fichiers.zecible.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "ywh.mydata.zecible.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "ywh.admin.zecible.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "ywh.api.zecible.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "ywh.dev.zecible.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "ywh.crons.zecible.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "ywh.routage.zecible.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "ywh.update.zecible.fr"
+			},
+			{
+				"type": "URL",
+				"identifier": "odoo14.notebleue.pro"
+			},
+			{
+				"type": "URL",
+				"identifier": "registre.notebleue.pro"
+			},
+			{
+				"type": "URL",
+				"identifier": "svn.notebleue.pro"
+			},
+			{
+				"type": "URL",
+				"identifier": "todo.notebleue.pro"
+			},
+			{
+				"type": "URL",
+				"identifier": "webtoolbox.notebleue.pro"
+			},
+			{
+				"type": "URL",
+				"identifier": "cam.notebleue.pro"
+			}
+		]
+	},
+	{
+		"name": "ntpd-rs Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/pendulum-bug-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/pendulum-project/ntpd-rs"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/pendulum-project/timestamped-socket"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "https://github.com/pendulum-project/clock-steering"
+			}
+		]
+	},
+	{
+		"name": "systemd Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/systemd-bug-bounty-program",
+		"assets": [
+			{
+				"type": "OTHER",
+				"identifier": "systemd (the manager itself)"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-boot"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-stub"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-udev"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-journald"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-logind"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-networkd"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "libsystemd"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-timesyncd"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-hostnamed"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-resolved"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-cryptenroll"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-cryptsetup"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-veritysetup"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-fstab-generator"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-gpt-auto-generator"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "systemd-ask-password"
+			}
+		]
+	},
+	{
+		"name": "Klara - Private Bug Bounty",
+		"url": "https://yeswehack.com/programs/klara",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "https://app.klara.ch/"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://app.epost.ch/"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=ch.klara.mylife"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/ch/app/klara-mylife/id1571483337"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/de/app/epost-app/id1571482864"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/ch/app/myklara/id1413146675"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/ch/app/klara-regioapp/id1273692088?utm_referrer=https%3A%2F%2Fwww.klara.ch%2Fregioapp"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=ch.klara.epost"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=ch.klara.myklara"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=ch.klara.pos\u0026gl=US"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.regioapp\u0026hl=de_CH\u0026utm_referrer=https%3A%2F%2Fwww.klara.ch%2Fregioapp"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://api.klara.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://login.klara.ch"
+			},
+			{
+				"type": "URL",
+				"identifier": "https://login.epost.ch"
+			}
+		]
+	},
+	{
+		"name": "Tokopedia Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/tokopedia-bug-bounty-program",
+		"assets": [
+			{
+				"type": "URL",
+				"identifier": "*.tokopedia.com"
+			},
+			{
+				"type": "URL",
+				"identifier": "*.tokopedia.net"
+			},
+			{
+				"type": "URL",
+				"identifier": "pay.tokopedia.id"
+			},
+			{
+				"type": "ANDROID",
+				"identifier": "https://play.google.com/store/apps/details?id=com.tokopedia.tkpd"
+			},
+			{
+				"type": "IOS",
+				"identifier": "https://apps.apple.com/us/app/tokopedia/id1001394201"
+			}
+		]
+	},
+	{
+		"name": "Kalima Systems - Bug Bounty Program",
+		"url": "https://yeswehack.com/programs/kalima-systems-bug-bounty-program",
+		"assets": [
+			{
+				"type": "IP",
+				"identifier": "161.97.133.161 (blockchain test)"
+			},
+			{
+				"type": "IP",
+				"identifier": "161.97.174.194 (blockchain test)"
+			},
+			{
+				"type": "IP",
+				"identifier": "161.97.133.182 (blockchain test)"
+			},
+			{
+				"type": "IP",
+				"identifier": "161.97.134.154 (blockchain test)"
+			},
+			{
+				"type": "IP",
+				"identifier": "161.97.134.189 (blockchain test)"
+			},
+			{
+				"type": "IP",
+				"identifier": "149.102.130.32 (KalimaCTL)"
+			},
+			{
+				"type": "IP",
+				"identifier": "149.102.129.237 (GoCD)"
+			},
+			{
+				"type": "URL",
+				"identifier": "gocd.ywh.kalimadb.com"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Smart Contract configuration (see our github)"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Master node configuration (see our github)"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Client node configuration (see our github)"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "Validation node configuration (see our github)"
+			},
+			{
+				"type": "OTHER",
+				"identifier": "KalimaERC20Token.sol (see link in program description)"
+			},
+			{
+				"type": "URL",
+				"identifier": "admin.omex.test.kalimadb.com"
+			}
+		]
+	}
+]
